@@ -10,7 +10,7 @@ In this exercise you will Log into your **jupyterhub portal** using your labvm u
 
       ![](images/jupyterurl.png)
 
-1. Login using your Labvm Admin Username and Labvm Admin Password from your Lab credentials details in the Jupyterhub portal. After entering your credentials click on **Sign In** button. 
+1. Enter your Labvm Admin Username and Labvm Admin Password from your Lab credentials details page in the Jupyterhub login page and click on **Sign In** button. 
 
      ![](images/jupyter.png)
 
