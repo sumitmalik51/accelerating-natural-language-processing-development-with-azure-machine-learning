@@ -14,7 +14,7 @@ In this exercise you will Log into your **jupyterhub portal** using your labvm u
 
      ![](images/jupyter.png)
 
-1. Now you will be able to see your jupyterhub portal home page.Select the **nlp** folder on jupyterhub portal.
+1. Now you will be able to see your jupyterhub portal home page. Select the **nlp** folder on jupyterhub portal.
 
      ![](images/nlp.png)
 
