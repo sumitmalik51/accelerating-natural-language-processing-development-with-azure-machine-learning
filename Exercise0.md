@@ -18,9 +18,17 @@ In this exercise you will Log into your **jupyterhub portal** Login using your l
 
 1. Select **examples** folder .
 
+![](images/examples.png)
+
 1. Select **text_classification** folder.
+
+![](images/textclassification.png)
 
 1. open folder **tc_transformers_azureml_pipelines**.
 
+![](images/tc.png)
+
 1. click on **tc_transformers_azureml_pipelines.ipynb**.
+
+![](images/pipeline.png)
 
