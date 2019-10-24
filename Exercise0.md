@@ -47,3 +47,8 @@ In this exercise you will Log into your **jupyterhub portal** using your labvm u
      ![](images/nplselect.png)
      
 1. Follow the steps from notebook and press **shift + enter** to run each shell.     
+
+
+
+
+
