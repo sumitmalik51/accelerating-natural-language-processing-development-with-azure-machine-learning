@@ -7,12 +7,14 @@ In this exercise you will Log into your **jupyterhub portal** Login using your l
 
 1. Copy the jupyterhub URL from your Lab credentials details and navigate it in a new tab.
 
+![](images/jupyterurl.png)
 
 1. Login using your Labvm Admin Username and Labvm Admin Password from your Lab credentials details in the Jupyterhub portal. After entering your credentials click on **Sign In** button. 
 
-1. Now you will able to see your jupyterhub portal home page. 
+![](images/jupyter.png)
 
-1. Select the **nlp** folder.
+1. Now you will be able to see your jupyterhub portal home page.Select the **nlp** folder on jupyterhub portal.
+![](images/nlp.png)
 
 1. Select **examples** folder .
 
