@@ -45,3 +45,5 @@ In this exercise you will Log into your **jupyterhub portal** using your labvm u
 1. Please make sure **npl_gpu** cluster is select on your notebook before running any command in notebook.
 
      ![](images/nplselect.png)
+     
+1. Follow the steps from notebook and press **shift + enter** to run each shell.     
